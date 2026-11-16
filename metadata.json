@@ -1,0 +1,6 @@
+{
+  "name": "Kora Super App",
+  "description": "All-in-one connected workspace for real-time messaging, WebRTC calling, geo-aware wallet payments, and curated hardware shopping.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
